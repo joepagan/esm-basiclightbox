@@ -1,0 +1,24 @@
+{
+  "name": "esm-basiclightbox",
+  "version": "1.0.0",
+  "description": "A Webpack suitable ES Module using dynamic imports to load the npm package basicLightbox",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joepagan/esm-basiclightbox.git"
+  },
+  "author": "joepagan",
+  "license": "MIT",
+  "dependencies": {
+    "basiclightbox": "^5.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/joepagan/esm-basiclightbox/issues"
+  },
+  "homepage": "https://github.com/joepagan/esm-basiclightbox#readme",
+  "main": "index.js",
+  "keywords": [
+    "basiclightbox",
+    "lightbox",
+    "module"
+  ]
+}
