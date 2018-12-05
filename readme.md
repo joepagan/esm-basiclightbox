@@ -14,7 +14,7 @@ If you want IE11 support you'll need too add core-js promise polyfill to your en
 ## Usage
 
 ```bash
-npm i
+npm i esm-basiclightbox
 ```
 
 Add some markup to your template using the specific classes `.js-lightbox-image` & `.js-lightbox-video`
