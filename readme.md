@@ -33,7 +33,7 @@ linkImageLightbox('.js-lightbox-image');
 linkIframeLightbox('.js-lightbox-iframe');
 ```
 
-Lastly, you will likely need to alter your webpack config. Most setups by default will not minify any ES6 code from `node_modules` so we need to make an exception for this ES6 package. Also you may as well lint it right? You can't rely on a random person from the internet to make things right?
+Lastly, you will likely need to alter your webpack config. Most setups by default will not minify any ES6 code from `node_modules` so we need to make an exception for this ES6 package. Also you may as well lint it, you can't rely on a random person from the internet to make things the best way, right?
 
 In your config where you load `.js` files:
 

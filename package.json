@@ -19,6 +19,7 @@
   "keywords": [
     "basiclightbox",
     "lightbox",
-    "module"
+    "module",
+    "webpack"
   ]
 }
